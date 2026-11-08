@@ -22,7 +22,7 @@ In this repository, you will find the notebooks for the tutorials and exercises 
 - **Week 05**: A quick introduction to PyTorch — [W05_intro_to_PyTorch.ipynb](./tutorials_notebooks_in_class_2026/W05_intro_to_PyTorch.ipynb)
 - **Week 06**: Word similarity and analogy with pretrained word vectors — [W06_similarity_analogy.ipynb](./tutorials_notebooks_in_class_2026/W06_similarity_analogy.ipynb)
 - **Week 07**: The computation graph of an LSTM (self-study) — [W07_lstm_computation_graph_slides.pdf](./tutorials_notebooks_in_class_2026/W07_lstm_computation_graph_slides.pdf); [interactive version](https://htmlpreview.github.io/?https://github.com/Andrian0s/ML4NLP1-2026-Tutorial-Notebooks/blob/main/tutorials_notebooks_in_class_2026/W07_lstm_computation_graph.html) ([W07_lstm_computation_graph.html](./tutorials_notebooks_in_class_2026/W07_lstm_computation_graph.html))
-- **Week 08**: Introduction to HuggingFace `transformers` and `datasets` — [W08_intro_to_hugging_face_transformers_datasets.ipynb](./tutorials_notebooks_in_class_2026/W08_intro_to_hugging_face_transformers_datasets.ipynb) *(2025 version)*
+- **Week 08**: Introduction to HuggingFace `transformers` and `datasets` — [W08_intro_to_hugging_face_transformers_datasets.ipynb](./tutorials_notebooks_in_class_2026/W08_intro_to_hugging_face_transformers_datasets.ipynb)
 - **Week 09**: Introduction to GLiNER and NuExtract — [W09_introduction_to_gliner_nuextract.ipynb](./tutorials_notebooks_in_class_2026/W09_introduction_to_gliner_nuextract.ipynb) *(2025 version)*
 - **Week 10**: Introduction to prompt engineering — [W10_introduction_to_prompt_engineering_2025.pdf](./tutorials_notebooks_in_class_2026/W10_introduction_to_prompt_engineering_2025.pdf) *(2025 version)*
 - **Week 11**: picoGPT: next-token prediction and loss computation step by step — [W11_picoGPT.ipynb](./tutorials_notebooks_in_class_2026/W11_picoGPT.ipynb) *(2025 version)*
@@ -46,7 +46,7 @@ Building word embeddings with PyTorch. In this exercise, you will implement a Co
 Also known as Exercise AB. Handled through Simon Clematide. Please see OLAT Course for details.
 
 ### Exercise 04:
-Named Entity Recognition using Transformer Encoders. In this exercise, you will fine-tune a BERT model using the HuggingFace library. Additionally, you will experiment with GliNER to perform anonymization of texts. See the exercise sheet for more details: [Exercise 04](./exercises/ex4_old)
+Named Entity Recognition using Transformer Encoders. In this exercise, you will fine-tune a BERT model using the HuggingFace library and compare it with zero-shot NER using GLiNER. Additionally, you will use GLiNER to anonymise texts. See the exercise sheet for more details: [Exercise 04](./exercises/ex4)
 
 ### Exercise 05: 
 LLM Prompting, Prompt Engineering and small LLM fine-tuning using Unsloth AI. See the exercise sheet for more details: [Exercise 05](./exercises/ex5_old)
